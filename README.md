@@ -1,2 +1,1 @@
-# demo-repo
-learning git basics
+hello
